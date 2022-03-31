@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JerryVee
-- 👀 I’m interested in Software devolpment.
+- 👀 I’m interested in Software development.
 - 🌱 I’m currently learning ... Full Stack @ #100Devs.
 - 📫 How to reach me ... Jerry.v1988@gmail.com
 
